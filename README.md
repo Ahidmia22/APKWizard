@@ -1,22 +1,10 @@
-<p align="center">
-🌈🎨🧙‍♂️
-
-আচ্ছা! 😎 GitHub-এর README.md-এর জন্য আমি তোমার দেওয়া ASCII banner ঠিকভাবে ব্যবহার করে সুন্দর করে integrate করে দিচ্ছি।
-
-GitHub Markdown-এ color codes কাজ করে না, তাই আমরা ASCII art preserve + emoji/Unicode rainbow vibe ব্যবহার করব।
-
-
----
-
-<p align="center">
-🌈🎨🧙‍♂️
-
-,,                                  ,,  
-  db      `7MM"""Mq.`7MMF' `YMM'`7MMF'     A     `7MF'db                                `7MM  
- ;MM:       MM   `MM. MM   .M'    `MA     ,MA     ,V                                      MM  
-,V^MM.      MM   ,M9  MM .d"       VM:   ,VVM:   ,V `7MM  M"""MMV  ,6"Yb.  `7Mb,od8  ,M""bMM
-
-,M  MM      MMmmdM9   MMMMM.        MM.  M' MM.  M'   MM  '  AMV  8)   MM    MM' "',AP    MM   AbmmmqMA     MM        MM  VMA       MM A'  MM A'    MM    AMV    ,pm9MM    MM    8MI    MM   A'     VML    MM        MM   MM.      :MM;    :MM;     MM   AMV  , 8M   MM    MM    Mb    MM   .AMA.   .AMMA..JMML.    .JMML.   MMb.     VF      VF    .JMML.AMMmmmM Moo9^Yo..JMML.   `Wbmd"MML.
+   _____ __________ ____  __.__      __.__                         .___
+  /  _  \\______   \    |/ _/  \    /  \__|____________ _______  __| _/
+ /  /_\  \|     ___/      < \   \/\/   /  \___   /\__  \\_  __ \/ __ | 
+/    |    \    |   |    |  \ \        /|  |/    /  / __ \|  | \/ /_/ | 
+\____|__  /____|   |____|__ \ \__/\  / |__/_____ \(____  /__|  \____ | 
+        \/                 \/      \/           \/     \/           \/ 
+                                                                
 
 🌈🎨🧙‍♂️
 </p>
@@ -127,17 +115,4 @@ Email: your-email@example.com
 ---
 
 Happy Hacking! 🚀
-
----
-
-এইভাবে GitHub-এ README.md ওপেন করলে:  
-- ASCII banner ঠিক থাকবে  
-- Emoji দিয়ে কিছু rainbow/magic vibe পাবো  
-- পুরো documentation professional দেখাবে  
-
----
-
-যদি চাও, আমি এই README.md **ASCII banner + rainbow animation preview** Terminal startup version-এ integrate করার code-ও বানিয়ে দিতে পারি।  
-
-চাও আমি সেটা বানাই?
 
